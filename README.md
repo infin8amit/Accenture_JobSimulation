@@ -1,6 +1,6 @@
 # Accenture_JobSimulation
 ****************************************************
-# README: Client Project Analysis and Presentation
+# Client Project Analysis and Presentation
 
 ## Overview
 This project focuses on analyzing a client project brief to understand their business problem, preparing and cleaning datasets for analysis, and creating a compelling PowerPoint presentation. The tasks are designed to demonstrate data analysis skills, provide actionable insights, and effectively communicate findings to both clients and internal team members.
@@ -9,8 +9,8 @@ This project focuses on analyzing a client project brief to understand their bus
 
 ### Meeting the Accenture Team
 I met with the Accenture team, including industry experts, IPO specialists, and data experts, to gain a comprehensive understanding of the project scope and objectives.
-![Screenshot 2024-06-29 024153](https://github.com/infin8amit/Accenture_JobSimulation/assets/167500637/0d084e14-7fce-43b9-b936-813eb6b18846)
 
+![Screenshot 2024-06-29 024153](https://github.com/infin8amit/Accenture_JobSimulation/assets/167500637/0d084e14-7fce-43b9-b936-813eb6b18846)
 ### Analyzing the Client Project Brief
 I thoroughly read and analyzed the client project brief to:
 - Understand the client and their business problem.
